@@ -1,0 +1,16 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.board-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.board-block {
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgb(210, 210, 210);
+}

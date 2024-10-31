@@ -1,0 +1,31 @@
+footer {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.key_board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+
+.key_board div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 40px;
+  background-color: rgb(212, 212, 212);
+  border-radius: 3px;
+}
+.enter {
+  width: 50px !important;
+}
+.backspace {
+  width: 50px !important;
+}
+.backspace img {
+  width: 20px;
+}

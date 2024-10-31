@@ -1,0 +1,15 @@
+header {
+  padding-bottom: 30px;
+}
+.menu_bar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wodle {
+  padding-left: 47px;
+  font-size: 30px;
+}
+.menu_bar img {
+  width: 20px;
+}
